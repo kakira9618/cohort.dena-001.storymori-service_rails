@@ -2,7 +2,7 @@
 
 0. [DONE] Understand existing service implementation
 1. [DONE] Init Rails project
-2. Create dummy controllers and write routing
+2. [DONE] Create dummy controllers and write routing
 3. Check using brower
 4. Create database for rails app
 5. Migrate DB datas from node's one to rails's one
