@@ -7,10 +7,10 @@
 4. [x] Create database for rails app
 5. [x] Migrate DB datas from node's one to rails's one
 6. [x] Create DB model
-7. [ ] Implement controllers and services
-    1. [ ] pages#getPages / related services
-    2. [ ] pages#savePages / related services
-    3. [ ] stories#getPages / related services
-    4. [ ] stories#savePages / related services
+7. [x] Implement controllers and services
+    1. [x] story#index / related services
+    2. [x] story#create / related services
+    3. [x] page#show/ related services
+    4. [x] page#create / related services
 8. [ ] Write Tests for controllers, services and models if nessesary
 9. [ ] Do Unit Test
