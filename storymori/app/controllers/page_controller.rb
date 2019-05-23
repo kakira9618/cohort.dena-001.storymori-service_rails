@@ -1,5 +1,4 @@
-class PageController < ApplicationController
-  protect_from_forgery except: :create # for postman test
+class PageController < ActionController::API
   def show
     render :json => {}
   end

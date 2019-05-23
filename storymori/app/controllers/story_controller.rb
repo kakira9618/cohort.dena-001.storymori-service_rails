@@ -1,5 +1,4 @@
-class StoryController < ApplicationController
-  protect_from_forgery except: :create # for postman test
+class StoryController < ActionController::API
   def index
     render :json => []
   end
